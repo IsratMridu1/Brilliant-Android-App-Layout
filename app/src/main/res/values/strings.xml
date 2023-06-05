@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">brilliant_final</string>
+
+    <string name="brilliant_connect">Brilliant Connect</string>
+
+    <string name="voice_quality">Voice Quality</string>
+
+    <string name="save_with_brilliant_connect">Save with Brilliant Connect</string>
+
+    <string name="your_brilliant_connect_number">Your Brilliant Connect Number </string>
+
+    <string name="attractive_rate">Attractive Rate</string>
+
+    <string name="voice_video_calling_app">Voice/Video Calling App</string>
+
+    <string name="crystal_clear_voice_and_video">Crystal Clear Voice and Video</string>
+
+    <string name="low_data_usage">Low Data Usage</string>
+
+    <string name="phone_number">09638-XXXXXX Number</string>
+
+    <string name="lowest_domestic_call_rate">Lowest Domestic Call Rate</string>
+
+    <string name="brilliant_connect_details_1">Brilliant connect is a voice calling app that you \n can use to make calls to any mobile and land \n phone number. App to app calls and \n messaging are free</string>
+
+    <string name="brilliant_connect_details_2">Brilliant Connects crystal clear voice quality \n while making or receiving calls to/from \n anywhere around the globe enables you to \n stay close to your loved ones no matter \n where you are</string>
+
+    <string name="brilliant_connect_details_3">Install this app and get a unique Brilliant \n Connect number. This number enables you to \n receive calls from any mobile/landline number \n from anywhere in the world</string>
+
+    <string name="brilliant_connect_details_4">Brilliant Connect gives you the freedom to call \n any mobile or landline number in Bangladesh \n anytime at the lowest call rate</string>
+
+    <string name="brilliant_connect_details_5">Brilliant connect is a voice calling app that you \n can use to make calls to any mobile and land \n phone number. App to app calls and \n messaging are free.</string>
+
+    <string name="your_profile">Your Profile</string>
+
+    <string name="edit_your_profile_info">Edit your profile info, which will be visible \n to your friends</string>
+
+    <string name="to_send_and_receive_files">To send and receive files and see your contacts profile \n pictures, allow Brilliant access to your device storage</string>
+
+    <string name="we_are_going_to_ask_your_permission">We are going to ask your permission to sync your native \n contacts with the app and temporarily load without \n names into servers for Brilliant Connect contacts \n matching. This is done for your convenience. you can \n decline this permission and still use the app without sync /n and matching. Your contacts are not shared with any 3rd /n party and not used for any other purposes than listed \n above. \n You can learn more about our privacy policy here.</string>
+
+
+</resources>
